@@ -1,4 +1,5 @@
-<img width="1440" alt="Screenshot 2025-07-03 at 10 09 55 PM" src="https://github.com/user-attachments/assets/ebdd4d51-1fb4-4ca6-b8e0-64881225e17c" />
+
+
 ## Intellimeet
 
 Intellimeet is a modern, AI-powered video meeting platform built with Next.js, Stream Video SDK, and Clerk authentication. It enables users to schedule, join, and manage video meetings, view recordings, and generate AI-based meeting summaries.
@@ -97,8 +98,9 @@ Intellimeet is a modern, AI-powered video meeting platform built with Next.js, S
 - ## 📸 Screenshots
 
 ### 🏠 Dashboard
+<img width="1440" alt="Screenshot 2025-07-03 at 10 09 55 PM" src="https://github.com/user-attachments/assets/ebdd4d51-1fb4-4ca6-b8e0-64881225e17c" />
 
-[Uploading Screenshot 2025-07-03 at 10.09.55 PM.png…]()
+
 
 <img width="1420" alt="Screenshot 2025-07-03 at 10 10 39 PM" src="https://github.com/user-attachments/assets/0ca26de1-ba28-4e3f-a971-2d65a12b612e" />
 
@@ -109,7 +111,7 @@ Intellimeet is a modern, AI-powered video meeting platform built with Next.js, S
 
 ### 🎥 In-Meeting Interface
 
-![Uploading Screenshot 2025-07-03 at 10.11.57 PM.png…]()
+<img width="1361" alt="Screenshot 2025-07-03 at 10 11 57 PM" src="https://github.com/user-attachments/assets/dc595458-8f85-4f5d-a5d0-5bcce619f18e" />
 
 
 
